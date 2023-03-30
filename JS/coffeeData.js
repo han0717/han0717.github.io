@@ -52,16 +52,6 @@ var foodData=
         "detailText":""
     },
     {
-        "area":"newTaipei",
-        "name":"吉利菓子",
-        "region":"淡水區",
-        "pictPath":"./pict/coffee/NewTaipei/1.jpg",
-        "location":"新北市淡水區中正路264號馬偕街旁邊",        
-        "location_href":"https://goo.gl/maps/8ZeATMVzxiFua9Af8",
-        "date":"每日 12:00-20:30",
-        "detailText":""
-    },
-    {
         "area":"taichung",
         "name":"解藥糖果屋",
         "region":"北區",
@@ -253,6 +243,103 @@ var foodData=
         "location":"新北市淡水區中正路233-3號2樓",        
         "location_href":"https://goo.gl/maps/VkmrLnxLZFNLD2YL7",
         "date":"平日 13:30-19:00|六日 12:00-20:00",
+        "detailText":""
+    },
+    {
+        "area":"Taipei",
+        "name":"昭和浪漫洗濯屋",
+        "region":"大同區",
+        "pictPath":"./pict/coffee/Taipei/17.jpg",
+        "location":"台北市大同區安西街3號",        
+        "location_href":"https://goo.gl/maps/MsEAZCeEx3HfRXWG8",
+        "date":"每日 12:30-18:00|周四 公休",
+        "detailText":""
+    },
+    {
+        "area":"newTaipei",
+        "name":"沒有特別計畫咖啡 café",
+        "region":"淡水區",
+        "pictPath":"./pict/coffee/NewTaipei/7.jpg",
+        "location":"新北市淡水區中山北路一段207巷37弄1號",        
+        "location_href":"https://goo.gl/maps/HdvR24iUtfWNZCME9",
+        "date":"每日 13:00-19:00|周三 公休",
+        "detailText":""
+    },
+    {
+        "area":"Taipei",
+        "name":"2J CAFE",
+        "region":"大安區",
+        "pictPath":"./pict/coffee/Taipei/18.jpg",
+        "location":"台北市大安區建國南路二段79巷9號",        
+        "location_href":"https://goo.gl/maps/DAvVDK98GgBuFLHe7",
+        "date":"每日 11:30-22:00",
+        "detailText":""
+    },
+    {
+        "area":"newTaipei",
+        "name":"草里一號店",
+        "region":"石門區",
+        "pictPath":"./pict/coffee/NewTaipei/8.jpg",
+        "location":"新北市石門區阿里荖1號",        
+        "location_href":"https://goo.gl/maps/x2RqyeLpFqJRHKco8",
+        "date":"每日 13:00-19:00|周三 公休",
+        "detailText":""
+    },
+    {
+        "area":"taichung",
+        "name":"果核豆花鄉(一中中華店)",
+        "region":"北區",
+        "pictPath":"./pict/coffee/TaiChung/3.jpg",
+        "location":"台中市北區中華路二段151號",        
+        "location_href":"https://goo.gl/maps/BKUY9kBTT32tmgDZA",
+        "date":"每日 11:30-20:30|週三 公休",
+        "detailText":""
+    },
+    {
+        "area":"taichung",
+        "name":"On&On Croffle",
+        "region":"西區",
+        "pictPath":"./pict/coffee/TaiChung/4.jpg",
+        "location":"台中市西區日進街與號博館二街211巷交叉路口",        
+        "location_href":"https://goo.gl/maps/qzaL9HbLWeCpGuHH9",
+        "date":"每日 14:00-20:00",
+        "detailText":""
+    },{
+        "area":"taichung",
+        "name":"löwfun裸放茶旅 勤美店",
+        "region":"西區",
+        "pictPath":"./pict/coffee/TaiChung/5.jpg",
+        "location":"台中市西區公益路68號B1",        
+        "location_href":"https://goo.gl/maps/ELeyYUV25B6opdB7A",
+        "date":"每日 11:00-21:30",
+        "detailText":""
+    },{
+        "area":"taichung",
+        "name":"查壹茶Charlie Tea & Coffee",
+        "region":"西區",
+        "pictPath":"./pict/coffee/TaiChung/6.jpg",
+        "location":"台中市西屯區西屯路三段166-59號",        
+        "location_href":"https://goo.gl/maps/Z2xz5UHaTCzXnpuE9",
+        "date":"每日 14:00-19:00|周一、二 公休",
+        "detailText":""
+    },
+    {
+        "area":"Taipei",
+        "name":"綠咖生活概念店",
+        "region":"大安區",
+        "pictPath":"./pict/coffee/Taipei/19.jpg",
+        "location":"台北市大安區延吉街244號2樓",        
+        "location_href":"https://goo.gl/maps/5nS6ppQUs6jkDV8y9",
+        "date":"每日 11:00-18:00",
+        "detailText":""
+    },{
+        "area":"taichung",
+        "name":"御尚冰手作冰淇淋",
+        "region":"北區",
+        "pictPath":"./pict/coffee/TaiChung/6.jpg",
+        "location":"台中市北區文昌東一街111號",        
+        "location_href":"https://goo.gl/maps/t79akE499cVGCyjn9",
+        "date":"每日 14:00-18:00",
         "detailText":""
     }
     
