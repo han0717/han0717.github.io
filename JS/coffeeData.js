@@ -65,7 +65,7 @@ var foodData=
         "name":"鹿雅森林(薩摩耶、夜景餐廳)",
         "region":"沙鹿區",
         "pictPath":"./pict/coffee/TaiChung/2.jpg",
-        "location":"中市沙鹿區臺灣大道七段346巷302號",        
+        "location":"台中市沙鹿區臺灣大道七段346巷302號",        
         "location_href":"https://goo.gl/maps/HfVo4BVjFBC5V7AB6",
         "date":"每日 14:00-00:00|週二、三公休",
         "detailText":""
@@ -340,6 +340,25 @@ var foodData=
         "location":"台中市北區文昌東一街111號",        
         "location_href":"https://goo.gl/maps/t79akE499cVGCyjn9",
         "date":"每日 14:00-18:00",
+        "detailText":""
+    },{
+        "area":"tainan",
+        "name":"mi cazuela 移動的鍋子",
+        "region":"中西區",
+        "pictPath":"./pict/coffee/Tainan/3.jpg",
+        "location":"台南市中西區開山路122巷62號",        
+        "location_href":"https://goo.gl/maps/tsJjrhCzJUUaYymD9",
+        "date":"13:00-17:00｜週三、四休",
+        "detailText":""
+    },
+    {
+        "area":"newTaipei",
+        "name":"私藏不藏私 雜貨咖啡店",
+        "region":"中和區",
+        "pictPath":"./pict/coffee/NewTaipei/9.jpg",
+        "location":"新北市中和區景安路167巷6號",        
+        "location_href":"https://goo.gl/maps/K7nSwKLHrT3PVz879",
+        "date":"平日 12:00-21:00|假日 11:00-21:00|周一 公休",
         "detailText":""
     }
     
