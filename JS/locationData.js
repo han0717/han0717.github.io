@@ -133,7 +133,7 @@ var locationData = [{
   var sun;
   function ajaxTest(area){
     $.ajax({
-      url:"https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-C0032-001?Authorization=CWB-7AE3D081-CC8D-4245-B59B-F16F973A74FF&format=JSON&locationName="+area+"",
+      url:"https://opendata.cwa.gov.tw/api/v1/rest/datastore/F-C0032-001?Authorization=CWB-7AE3D081-CC8D-4245-B59B-F16F973A74FF&format=JSON&locationName="+area+"",
       method:"get",
       dataType:"JSON",
       success:function(res){
@@ -186,7 +186,7 @@ var locationData = [{
           nextDay+="0"+(new Date(new Date().setDate(new Date().getDate()+1)).getDate())
         }
         $.ajax({            
-          url:"https://opendata.cwb.gov.tw/api/v1/rest/datastore/A-B0062-001?Authorization=CWB-7AE3D081-CC8D-4245-B59B-F16F973A74FF&format=JSON&locationName="+area+"&timeFrom="+today+"&timeTo="+nextDay+"",
+          url:"https://opendata.cwa.gov.tw/api/v1/rest/datastore/A-B0062-001?Authorization=CWB-7AE3D081-CC8D-4245-B59B-F16F973A74FF&format=JSON&locationName="+area+"&timeFrom="+today+"&timeTo="+nextDay+"",
           method:"get",
           dataType:"JSON",
           success:function(resa){
